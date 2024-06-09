@@ -1,0 +1,1 @@
+cat_bins = {'CurrencyCode': {'UGX': 0, 'USD': 1, 'EUR': 2}, 'ProviderId': {'ProviderId_1': 0, 'ProviderId_2': 1, 'ProviderId_3': 2, 'ProviderId_4': 3, 'ProviderId_5': 4, 'ProviderId_6': 5}, 'ProductCategory': {'airtime': 0, 'financial_services': 1, 'utility_bill': 2, 'data_bundles': 3}}

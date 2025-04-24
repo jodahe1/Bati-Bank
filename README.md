@@ -25,9 +25,6 @@ The **Bati-Bank** project leverages data analytics and machine learning to build
 2. **Enable Buy-Now-Pay-Later Services**: Provide customers with the ability to purchase products on credit.
 3. **Optimize Loan Terms**: Predict the optimal loan amount and duration for each customer.
 
-The project uses two primary datasets:
-- **IPL Matches 2008-2020**: Match-level data.
-- **IPL Ball-by-Ball 2008-2020**: Ball-by-ball records for each match.
 
 The analysis includes **Exploratory Data Analysis (EDA)**, **Feature Engineering**, **Model Building**, and **Model Evaluation**.
 
